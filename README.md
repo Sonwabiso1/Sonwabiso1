@@ -21,12 +21,8 @@ ___
 ___
 
 <details>
-  <summary>
-    <h3> Sonwabiso's Coding Journey 🧑🏽‍💻</h3>
+  <summary><h3> Sonwabiso's Coding Journey 🧑🏽‍💻</h3></summary>
     
 My coding journey began in 2018 while studying Computer Applications Technology (CAT) during high school, where I initially learned HTML through coursework and self-taught CSS. In 2020, I expanded my skills by delving into basic Python and JavaScript on the Sololearn platform. Continuing my pursuit of knowledge, I enrolled at Wits in 2021, where I delved into computer science modules, gaining proficiency in Python, Java, and C++. Additionally, I acquired knowledge of C# through my Information Systems (IS) modules. Unfortunately, due to financial constraints, I had to discontinue my studies in 2023. Undeterred, I recommenced my educational journey in 2024 by joining Codespace Academy, where I am currently enhancing my expertise in advanced CSS and JavaScript.
-  </summary>
-  
 </details>
-
 
