@@ -2,7 +2,10 @@
 
 **`Sofware Developer`**
 <p>
-Hello! I'm Sonwabiso, a passionate front-end developer currently enrolled at Codespace Academy, where I'm honing my skills and expertise in web development. With a keen interest in creating captivating user experiences and a strong foundation in HTML, CSS, and JavaScript, I'm committed to mastering the art of crafting visually appealing and intuitive websites and applications. 
+Hello! My name is Sonwabiso Maloni, and I am a Systems Development Intern at Capaciti.
+I’m passionate about continuously expanding my knowledge in IT and software development. My current focus is improving my skills in languages like Python and Java and polishing my front-end expertise in React, JavaScript, HTML, and CSS.
+
+I thrive on learning and applying new technologies to solve real-world problems. I'm dedicated to staying updated with industry trends and honing my abilities to create impactful, efficient solutions. I aim to grow as a versatile developer and contribute meaningfully to any team I join.
 </p>
 
 ___
